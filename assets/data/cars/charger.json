@@ -1,0 +1,12 @@
+{
+    "maxSpeed": 45.0,
+    "acceleration": 20.0,
+    "braking": 25.0,
+    "friction": 3.5,
+    "turnSpeed": 75.0,
+    "weightTransferAcceleration": -5.0,
+    "weightTransferBraking": 6.0,
+    "bodyRollIntensity": 9.0,
+    "suspensionStiffness": 5.0
+}
+

@@ -1,0 +1,16 @@
+{
+    "driveType": "AWD",
+    "weight": 1400.0,
+    "maxSpeed": 48.0,
+    "acceleration": 40.0,
+    "braking": 35.0,
+    "friction": 3.0,
+    "turnSpeed": 90.0,
+    "tireScrub": 12.0, 
+    "weightTransferAcceleration": 5.0,
+    "weightTransferBraking": 8.0,
+    "bodyRollIntensity": 5.0,
+    "suspensionStiffness": 12.0,
+    "maxRpm": 7000.0,
+    "gearMaxSpeeds": [15.0, 25.0, 34.0, 41.0, 48.0]
+}

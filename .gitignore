@@ -1,0 +1,12 @@
+# Ejecutables y binarios compilados
+*.o
+*.out
+build/
+bin/
+*.exe
+
+# Archivos temporales del sistema o editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

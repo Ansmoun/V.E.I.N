@@ -1,0 +1,16 @@
+{
+    "driveType": "RWD",
+    "weight": 950.0,
+    "maxSpeed": 42.0,
+    "acceleration": 38.0,
+    "braking": 25.0,
+    "friction": 3.0,
+    "turnSpeed": 120.0,
+    "tireScrub": 4.0,
+    "weightTransferAcceleration": 8.0,
+    "weightTransferBraking": 7.0,
+    "bodyRollIntensity": 8.0,
+    "suspensionStiffness": 6.0,
+    "maxRpm": 7500.0,
+    "gearMaxSpeeds": [10.0, 18.0, 26.0, 34.0, 42.0]
+}
